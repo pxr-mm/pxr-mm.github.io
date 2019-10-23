@@ -1,5 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 .nav {
     height: 80px;
     width: 100%;
-    background: linear-gradient(to right red orange yellow green cyan blue purple);
+    background: linear-gradient(to right, red, orange, yellow, green, cyan, blue, purple);
+    line-height: 80px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: chartreuse;
+}
+.main{
+   width: 100%;
+   height: 700px;
+   /* background: url("./imgs/1.jpg") no-repeat; */
+   /* background-size: cover; */
+   /* opacity: 0.5; */
+   background-color: rgb(205, 242, 243);
+}
+.introduce {
+    height: 100px;
+}
+.story {
+    width: 500px;
+    background-color: rgba(207, 248, 110,0.5);
+    padding: 50px;
+    
+}
+.story p {
+    font-size: 30px;
+    color: salmon;
 }
