@@ -21,10 +21,22 @@
    background-color: rgb(205, 242, 243);
 }
 .introduce {
-    height: 100px;
+    height: 100%;
+    width: 300px;
+    background-color: pink;
+    float: left;
+}
+.photos {
+    float: left;
+    background-color: rgb(238, 163, 50);
+    font-size: 30px;
+    padding: 20px;
 }
 .story {
+    /* margin: 50px;
+    margin-left: 200px; */
     width: 500px;
+    float: left;
     background-color: rgba(207, 248, 110,0.5);
     padding: 50px;
     
