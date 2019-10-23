@@ -1,0 +1,5 @@
+.nav {
+    height: 80px;
+    width: 100%;
+    background: linear-gradient(to right red orange yellow green cyan blue purple);
+}
