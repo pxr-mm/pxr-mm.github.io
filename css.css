@@ -14,7 +14,7 @@
 }
 .main{
    width: 100%;
-   height: 700px;
+   height: 470px;
    /* background: url("./imgs/1.jpg") no-repeat; */
    /* background-size: cover; */
    /* opacity: 0.5; */
@@ -44,4 +44,21 @@
 .story p {
     font-size: 30px;
     color: salmon;
+}
+.footer {
+    width: 100%;
+    height: 400px;
+    background-color: #ccc;
+}
+.guanzu {
+    width: 500px;
+    height: 100%;
+    margin: 0 auto;
+}
+.guanzu .h {
+    font-size: 30px;
+    text-align: center;
+}
+.ma {
+    margin-left: 20px;
 }
